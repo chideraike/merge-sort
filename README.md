@@ -1,2 +1,2 @@
 # merge-sort
-Merge Sort Algorithm
+Merge Sort Algorithm in C++
